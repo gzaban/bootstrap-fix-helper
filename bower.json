@@ -1,0 +1,21 @@
+{
+	"name": "bootstrap-fix-helper",
+	"version": "1.0.0",
+	"homepage": "https://github.com/gzaban/bootstrap-fix-helper",
+	"authors": [
+		"Guy Tzaban <guy@tzaban.com>"
+	],
+	"description": "put a small square in the upper left corner that displays the screen size by bootstrap size (lg, md, sm, xs).",
+	"main": "fix.less",
+	"keywords": [
+		"bootstrap"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
