@@ -8,10 +8,12 @@ put a small square in the upper left corner that displays the screen size by boo
 
 ## How to use?
 
-1. **Add the path of the file to your main LESS:**:
+1. **Add the path of the file to your main LESS:**
 
 @import '../components/lesshat/build/lesshat.less';
 
-2. **Add only for the development Add this DIV into the BODY**:
+2. **Add only for the development Add this DIV into the BODY**
 
 <div id="fix"></div>
+
+---
