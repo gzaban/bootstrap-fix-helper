@@ -23,3 +23,6 @@ put a small square in the upper left corner that displays the screen size by boo
 
 
 thanks guy
+
+
+
